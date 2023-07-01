@@ -12,6 +12,7 @@ Unfortunately, the continuous rise of email users has led to a massive increase 
 DISADVANTAGES OF EXISTING SYSTEM:
 .	Spam emails are usually sent in bulk and do not target individual recipient. 
 .	Aim is to preserve the most important features and to reduce computations demand.
+
 --Algorithm: Linear Discriminant Analysis, Classification.
 
 \PROPOSED SYSTEM:
@@ -20,6 +21,7 @@ In the model development, the dataset is consistently split into train and test 
 ADVANTAGES OF PROPOSED SYSTEM:
 .	The proposed approach is evaluated using accuracy, precision and recall. 
 .	In the near future, it is planned to incorporate other classifiers and to compare their performances with the proposed approach.
+
 --Algorithm: Machine learning, ID3 algorithm, classification algorithm.
 
 
