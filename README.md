@@ -1,7 +1,7 @@
 # Email-Spam-or-Ham-Using-ML
 Machine Learning Project using ID3 algorithm
 
-[SCREEN SHOTS.docx](https://github.com/GyaneshwarMaddela/Email-Spam-or-Ham-Using-ML/files/11925759/SCREEN.SHOTS.docx)
+Click Here:->:[SCREEN SHOTS.docx](https://github.com/GyaneshwarMaddela/Email-Spam-or-Ham-Using-ML/files/11925759/SCREEN.SHOTS.docx)
 ---------------------------------------------------------------------------
 Detecting email spam or ham using Machine Learning
 In addition to the undeniable benefits, the development of the Internet has led to many undesirable security effects. Spam emails are one of the most challenging issues faced by the Internet users. Spam refers to all emails of unsolicited content that arrive in a user’s email box. Spam can often lead to network congestion and blocking or even damage to the system for receiving and sending electronic messages. Thus, appropriate classification of spam email from legitimate email has become quite important. This paper presents a new approach for feature selection and Iterative Dichotomiser 3 (ID3) algorithm designed to generate the decision tree for email classification. The experimental results indicate that the proposed model achieves very high accuracy.
